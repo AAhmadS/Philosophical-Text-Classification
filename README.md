@@ -1,4 +1,9 @@
-# NLP_HW1
-Natural language processing course<br/>
-Sharif Uni. --- Computer Engineering Dept. --- Dr. Asgari<br/>
-Notebooks and data related to the first homework
+# Text Classification
+## Sharif University of Technology <br/> CE Dept. <br/> NLP Course<br/> Dr. E. Asgari
+
+**Description**: Task is done on texts from Friedrich Nietzsche, Immanuel Kant and Georg Wilhelm Friedrich Hegel.
+
+**Supplementary information**:<br/>
+>**Main-model**: Bert-base-uncased
+>**Dataset**:<br/>* **Immanuel Kant**'s "Critique of Pure Reason"<br/>* **Friedrich Neitzsche**'s"Human all too human"<br/>* **Georg Wilhelm Friedrich Hegel**'s"Phenomenology of spirit"<br/>
+>**Results**:Accuracy 93%
